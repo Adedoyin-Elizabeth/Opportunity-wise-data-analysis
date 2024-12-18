@@ -2,6 +2,18 @@
 The repository summarizes key insights from the Opportunity Wise Data Analysis project, featuring visualizations and trends in demographics, opportunity categories, and geographic participation, highlighting engagement patterns and skill acquisition globally.
 
 # Opportunity Wise Data Analysis
+## TABLE OF CONTENTS
+### INTRODUCTION
+### OBJECTIVE
+### TOOL USED
+### KEY INSIGHTS
+### RECOMMENDATIONS
+### VISUALIZATION
+### DASHBOARD
+### CONTACT
+
+
+
 
 ## Introduction
 This project explores global data on opportunity distribution, focusing on gender, skill acquisition, and demographic trends. It aims to identify actionable insights and recommend strategies for improving opportunity access across demographics.
@@ -69,7 +81,7 @@ Analyze data on opportunities across various demographics to provide actionable 
 ### Top Countries by Participation
 ![OPPORTUNITY TOP COUNTRIES](https://github.com/user-attachments/assets/b65e7cd8-5b49-4018-8482-b4fffc101bcc)
 
-### Dashboard
+## Dashboard
 
 ![OPPORTUNITY WISE dashboard 2](https://github.com/user-attachments/assets/b96746a6-23dc-48e2-8346-0473da2d8809)
 
